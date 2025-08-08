@@ -8,7 +8,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application to manag
 
 - Add, view, edit, and delete books
 - View book details in card or table layout
-- Real-time feedback using Notistack snackbars
+- Real-time action alerts powered by Notistack
 - Client-side routing with React Router
 - Fully responsive user interface
 
