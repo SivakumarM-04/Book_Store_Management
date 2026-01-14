@@ -64,7 +64,7 @@ Then visit:
 ➡️ http://localhost:5173/  
 
 ### Output
-
+![Output Sample](./OutputSamples/1 Table.png)
 
 
 ### Author  
