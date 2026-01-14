@@ -43,7 +43,7 @@ BookStore/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SivakumarM-04/Book_Store_Management.git)cd book-store-management
+git clone https://github.com/SivakumarM-04/Book_Store_Management.git
 ```
 
 ### 2. Setup the backend
@@ -62,6 +62,10 @@ npm run dev
 ```
 Then visit:
 ➡️ http://localhost:5173/  
+
+### Output
+
+
 
 ### Author  
 ### Sivakumar M  
