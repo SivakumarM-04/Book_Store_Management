@@ -43,8 +43,7 @@ BookStore/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Vigneshwaran-dev/book-store-management.git
-cd book-store-management
+git clone https://github.com/SivakumarM-04/Book_Store_Management.git)cd book-store-management
 ```
 
 ### 2. Setup the backend
